@@ -20,7 +20,7 @@ I'm a software engineer passionate about applying AI + software engineering to s
 
 
 ## GitHub Stats
-![Jingwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingwenXuUoT&show_icons=true&theme=default)
+![Jingwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingwenXuUoT&show_icons=true)
 
 <!-- Optional: recent blog posts, talks, or open-source highlights -->
 
