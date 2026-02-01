@@ -5,7 +5,7 @@ I'm a software engineer passionate about applying AI + software engineering to s
 - 🔭 Currently: building VosynVerse at Company Vosyn AI
 - 🌱 Learning: Cloud computing, AI agent
 - 💬 Ask me about: Agentic application, Python, Java, CI/CD, system design
-- 📫 Reach me: [email](selinaxu.985@gmail.com) • [website](https://www.linkedin.com/in/jingwen-xu-197679313/)
+- 📫 Reach me: [email](selinaxu.985@gmail.com) • [website](https://www.linkedin.com/in/jingwenxuuoft/)
 
 ## Featured projects
 - [DocBot](https://github.com/JingwenXuUoT/DocBot) — Document Q&A agent, save time on reading documents.
